@@ -1,0 +1,242 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.12.10)  7 JAN 2020 13:53
+entering extended mode
+**c:/Users/jakob/Documents/TUP/naloge/naloga4/naloga4.tex
+(c:/Users/jakob/Documents/TUP/naloge/naloga4/naloga4.tex
+LaTeX2e <2019-10-01> patch level 3
+("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\report.cls"
+Document Class: report 2019/10/25 v1.4k Standard LaTeX document class
+("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size11.clo"
+File: size11.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.sty"
+Package: babel 2019/11/14 3.36 The Babel package
+ ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.def"
+File: switch.def 2019/11/14 3.36 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-slovenian\slovene.ldf"
+Language: slovene 2005/03/31 v1.2m Slovene support from the babel system
+ ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.def"
+File: babel.def 2019/11/14 3.36 Babel common definitions
+\babel@savecnt=\count89
+\U@D=\dimen103
+ ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel.def")
+\bbl@dirlevel=\count90
+)
+Package babel Info: Making " an active character on input line 79.
+)) ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.sty" ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+\lst@mode=\count91
+\lst@gtempboxa=\box27
+\lst@token=\toks15
+\lst@length=\count92
+\lst@currlwidth=\dimen104
+\lst@column=\count93
+\lst@pos=\count94
+\lst@lostspace=\dimen105
+\lst@width=\dimen106
+\lst@newlines=\count95
+\lst@lineno=\count96
+\lst@maxwidth=\dimen107
+ ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstmisc.sty"
+File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
+\c@lstnumber=\count97
+\lst@skipnumbers=\count98
+\lst@framebox=\box28
+) ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.cfg"
+File: listings.cfg 2019/09/10 1.8c listings configuration
+))
+Package: listings 2019/09/10 1.8c (Carsten Heinz)
+ ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+ ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
+Package: graphics 2019/11/01 v1.3d Standard LaTeX Graphics (DPC,SPQR)
+ ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen108
+\Gin@req@width=\dimen109
+) ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/latex/placeins\placeins.sty"
+Package: placeins 2005/04/18  v 2.2
+) ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstlang1.sty"
+File: lstlang1.sty 2019/09/10 1.8c listings language file
+) (c:/Users\jakob\Documents\TUP\naloge\naloga4\naloga4.aux)
+\openout1 = `naloga4.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+\c@lstlisting=\count99
+ ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count100
+\scratchdimen=\dimen110
+\scratchbox=\box29
+\nofMPsegments=\count101
+\nofMParguments=\count102
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count103
+\MPscratchDim=\dimen111
+\MPnumerator=\count104
+\makeMPintoPDFobject=\count105
+\everyMPtoPDFconversion=\toks17
+) ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstopdf-base.sty"
+Package: epstopdf-base 2019/11/24 v2.7 Base part for package epstopdf
+ ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+) ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+ ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+ ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+))) ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+ ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+ ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+ ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifluatex.sty"
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+ ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.sty"
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+))))) ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdftexcmds\pdftexcmds.sty"
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 442.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 460.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 18.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 18.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 18.
+ [1
+
+{C:/Users/jakob/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Overfull \hbox (19.27441pt too wide) in paragraph at lines 27--30
+ \OT1/cmr/bx/n/10.95 Opis opra-vila[] \OT1/cmr/m/n/10.95 Pa-ci-ent je bil udelezen v pro-me-tni ne-sreci in je lazje poskodovan
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--30
+
+ []
+
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 42.
+("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 42.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 49.
+
+Overfull \hbox (12.77069pt too wide) in paragraph at lines 66--68
+\OT1/cmr/m/it/10.95 okviru socasnega do-stopa do PB. Z upo-rabo vecnitnega pro-gra-mi-ra-nja v Pythonu
+ []
+
+[1] [2]
+
+Package Listings Warning: Text dropped after begin of listing on input line 83.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--122
+
+ []
+
+[3]
+<./pics/dirty-read.png, id=21, 1264.725pt x 1106.63437pt>
+File: ./pics/dirty-read.png Graphic file (type png)
+<use ./pics/dirty-read.png>
+Package pdftex.def Info: ./pics/dirty-read.png  used on input line 125.
+(pdftex.def)             Requested size: 360.0pt x 314.98882pt.
+ [4 <./pics/dirty-read.png>]
+Overfull \hbox (9.4139pt too wide) in paragraph at lines 131--131
+[]\OT1/cmr/bx/n/12 Neponovljivo bra-nje oz. ne-kon-si-sten-tna ana-liza (non-repeatable
+ []
+
+
+Package Listings Warning: Text dropped after begin of listing on input line 135.
+
+[5]
+<./pics/nonrepeatable.png, id=30, 1378.39969pt x 1087.81406pt>
+File: ./pics/nonrepeatable.png Graphic file (type png)
+<use ./pics/nonrepeatable.png>
+Package pdftex.def Info: ./pics/nonrepeatable.png  used on input line 174.
+(pdftex.def)             Requested size: 360.0pt x 284.10307pt.
+ [6 <./pics/nonrepeatable.png>]
+
+Package Listings Warning: Text dropped after begin of listing on input line 184.
+
+[7]
+<./pics/phantom.png, id=39, 1293.33188pt x 989.94844pt>
+File: ./pics/phantom.png Graphic file (type png)
+<use ./pics/phantom.png>
+Package pdftex.def Info: ./pics/phantom.png  used on input line 227.
+(pdftex.def)             Requested size: 360.0pt x 275.55229pt.
+ [8 <./pics/phantom.png>]
+
+Package Listings Warning: Text dropped after begin of listing on input line 236.
+
+[9]
+<./pics/izgubljeno_azuriranje.png, id=47, 1184.17406pt x 959.08313pt>
+File: ./pics/izgubljeno_azuriranje.png Graphic file (type png)
+<use ./pics/izgubljeno_azuriranje.png>
+Package pdftex.def Info: ./pics/izgubljeno_azuriranje.png  used on input line 277.
+(pdftex.def)             Requested size: 360.0pt x 291.56137pt.
+ [10 <./pics/izgubljeno_azuriranje.png>] (c:/Users\jakob\Documents\TUP\naloge\naloga4\naloga4.aux) ) 
+Here is how much of TeX's memory you used:
+ 4116 strings out of 492484
+ 58021 string characters out of 3121600
+ 326300 words of memory out of 3000000
+ 8419 multiletter control sequences out of 15000+200000
+ 9157 words of font info for 32 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,7n,40p,341b,1513s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/jakob/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/jakob/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/jakob/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/jakob/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/jakob/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/jakob/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/jakob/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on c:/Users\jakob\Documents\TUP\naloge\naloga4\naloga4.pdf (11 pages, 521723 bytes).
+PDF statistics:
+ 75 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+
